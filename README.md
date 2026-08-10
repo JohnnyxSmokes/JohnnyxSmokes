@@ -168,6 +168,7 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 | **X (builders)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
 | **X (Alpha Tek)** | [@AlphaTekApp](https://x.com/AlphaTekApp) |
 | **X (bot)** | [@AlphaTekBot](https://x.com/AlphaTekBot) |
+| **Reddit** | [u/mastertrader777](https://www.reddit.com/user/mastertrader777/) |
 
 ---
 
