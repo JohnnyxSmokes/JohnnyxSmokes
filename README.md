@@ -1,13 +1,8 @@
 <!--
-  PUBLIC PROFILE README
-  Repo name must be exactly: JohnnyxSmokes/JohnnyxSmokes
-  Status: ready to publish as the only (or primary) public surface while CORE stays private.
-
-  Do NOT link private monorepos, internal docs, or stack dumps here.
+  PUBLIC PROFILE README — JohnnyxSmokes/JohnnyxSmokes
+  Product hub. No private monorepo links or stack dumps.
 -->
 
-<!-- ============== TOP BANNER ============== -->
-<!-- Source: marketing/social-profiles/alpha-tek/alpha-tek-x-header-1500x500.png -->
 <p align="center">
   <a href="https://www.alphatek.app">
     <img src="assets/banner.png" alt="Alpha Tek — Intelligence. Infrastructure. Advantage." width="100%" />
@@ -36,6 +31,10 @@
       <img src="https://img.shields.io/badge/Discord-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Epic Alpha Discord" />
     </a>
     &nbsp;
+    <a href="https://www.alphatek.app/changelog">
+      <img src="https://img.shields.io/badge/Build%20Journey-Changelog-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Build Journey" />
+    </a>
+    &nbsp;
     <a href="https://x.com/BitcoinHomework">
       <img src="https://img.shields.io/badge/X-@BitcoinHomework-000000?style=for-the-badge&labelColor=0A0A0A&logo=x&logoColor=white" alt="@BitcoinHomework" />
     </a>
@@ -44,7 +43,7 @@
   <p>
     <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana & multichain" />
     <img src="https://img.shields.io/badge/Core-Private%20Until%20Release-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private" />
-    <img src="https://img.shields.io/badge/Extension-Public%20When%20Ready-22c55e?style=flat-square&labelColor=0A0A0A" alt="Extension public when ready" />
+    <img src="https://img.shields.io/badge/Cursor-Day%2081%2B-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 81" />
     <img src="https://komarev.com/ghpvc/?username=JohnnyxSmokes&style=flat-square&color=a855f7" alt="Profile views" />
   </p>
 
@@ -56,85 +55,83 @@
 
 **JohnnyxSmokes** — he/him · Tampa, FL · building **Epic Alpha** and **Alpha Tek**.
 
-I have been in crypto since the **2012 BTC era**. The mission has always been the same: give people who got burned, who refuse to get burned again, or who only have a little to start with **real intelligence** — free tools and free community first, paid depth when it earns its keep.
+Crypto since the **2012 BTC era**. The mission never moved: give people who got burned, who refuse to get burned again, or who only have a little to start with **real intelligence** — free tools and free community first, paid depth when it earns its keep.
 
-Most of the hard build stays in **private repositories** on purpose. Public presence here is the story, the portal, the Discord, and eventually **inspectable products** (starting with the browser extension). Private monorepos are not secret marketing — they are unfinished and competitive IP until the right pieces ship clean.
+Hard build stays **private by default**. Public presence is the story, live products, product footprints, and (when it matters) inspectable packages like the browser extension.
 
 ---
 
 ## What Is Alpha Tek?
 
-**[AlphaTek.App](https://www.alphatek.app)** is a crypto intelligence portal:
+**Alpha Tek** is a full **crypto intelligence ecosystem** — not a single app with three tabs.
 
-| Surface | What you get (user-facing) |
-|--------|----------------------------|
-| **Explorer** | Token and market context without drowning in noise |
-| **Discover** | Narrative / pool / heat discovery for people who will not tab-hop for hours |
-| **TG Arena** | Telegram-call style alpha, structured for operators |
-| **KOL Scope** | Social / influencer heat without fake certainty |
-| **Alpha Guard** | Host, domain, mint, and approval-awareness tooling under Alpha brand |
-| **AAI Hub** | Utility layer when you want AI and premium rails (not a hype checkbox) |
+| Plane | What it is |
+|-------|------------|
+| **[AlphaTek.App](https://www.alphatek.app)** | Live web portal — Explorer, Discover, TG Arena, KOL, Guard, Academy, AAI Hub |
+| **[Epic Alpha Discord](https://discord.gg/EpicAlpha)** | Free community + **200+ Tek channels** + command surface |
+| **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails |
+| **AAI** | Utility design (devnet-proven programs; mainnet gated) |
 
-**Epic Alpha Discord** — free server, free commands, free resources that funded the culture long before anything was sustainable. Join: [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha)
+One brand. Free first. Sustainable flywheels so free tools survive.
 
----
-
-## Public Vs Private (No Surprises)
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│  PUBLIC (this profile + selected repos)                      │
-│  · This README · product story · installable extension       │
-│  · Virus / store trust reports on release artifacts          │
-│  · Socials · Discord · portal links                          │
-├────────────────────────────────────────────────────────────┤
-│  PRIVATE (default for core)                                  │
-│  · Platform monorepo · agents · ingestion · unpaid R&D       │
-│  · Implementation detail · ops surface · unfinished ships    │
-└────────────────────────────────────────────────────────────┘
-```
-
-**Why private first?**  
-Three-plus years of stack, prompts, product mechanics, and economic design are not free open-source homework until deliberate release. Stealing ideas is easy when the entire warehouse is a public git clone.
-
-**What visitors still get:** a clear founder story, working free / paid products online, and — when ready — source or packages for things that **must** be audited (browser extensions, installers).
+**Read the full synopsis:** [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper)
 
 ---
 
-## Shipping Public: Alpha Trench (First)
+## Public Product Repositories
 
-**Alpha Trench** is the Alpha Tek **browser extension** (Chrome MV3) — trench client shell: Instant Trade practice rail, Alpha Guard host awareness, mint context, journal / replay path, optional link to the Alpha Tek portal.
+Docs + banners only (or, for Alpha Trench, inspectable packages when released). **No private monorepo dumps.**
 
-| Status | Plan |
-|--------|------|
-| **Now** | Private beta / internal quality bar |
-| **Next** | Public GitHub repo for the extension package + install docs |
-| **Trust** | VirusTotal (and store listing) reports linked on that repo |
+| Product | Public repo | Live |
+|---------|-------------|------|
+| **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | Synopsis |
+| **Web portal** | [JohnnyxSmokes/alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) | [alphatek.app](https://www.alphatek.app) |
+| **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
+| **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Portal link · store TBD |
 
-When live, this profile will pin:
+---
 
-- `JohnnyxSmokes/alpha-trench` *(or org path if published under AlphaTek App)*  
-- This profile README
+## Build Journey · Changelog
 
-Until then, use the portal and Discord — not a half-finished open dump.
+Every serious shipping streak should leave a receipt.
+
+| Surface | What you see |
+|---------|----------------|
+| **[alphatek.app/changelog](https://www.alphatek.app/changelog)** | **Build Journey** — public ship log, heat, milestones |
+| **[This GitHub profile](https://github.com/JohnnyxSmokes)** | Contribution graph + activity (private repos keep source closed) |
+
+The changelog is where product narrative meets timestamps. The green boxes are proof of process. Both matter.
 
 ---
 
 ## How I Build
 
-<div align="center">
-
 | Principle | Meaning |
 |-----------|---------|
 | **Free first** | Tools and community before gates |
 | **Honesty ladder** | Practice marks before live size |
-| **Alpha brand** | User-facing labels, not vendor cosplay |
-| **Ship privately, prove publicly** | Core IP closed; auditables open when they matter |
-| **Sustainability** | Subscriptions, licensing, AAI utility so the free layer can live |
+| **Alpha brand** | One public label — not vendor cosplay |
+| **Ship privately, prove publicly** | Core IP closed; auditables open when needed |
+| **Sustainability** | Subs + licensing + AAI utility → free layer lives |
+| **Daily depth** | **Cursor Day 81+** of intense product shipping with AI-assisted engineering — heat shows on GitHub |
 
-</div>
+Want the raw operator footprint? Scroll the contribution graph on this profile. Thousands of commits; most monorepo detail stays private **on purpose**.
 
-Contribution heat on this account is real. Much of it is in **private** repositories. That is intentional: high volume does not require high clone surface.
+---
+
+## Public Vs Private
+
+```text
+PUBLIC
+  · This profile · product README repos · live portal · Discord invite
+  · Build Journey changelog · contribution heat
+  · Alpha Trench package + VirusTotal when released
+
+PRIVATE
+  · Platform monorepo · agents · ingestion · unpaid R&D · ops secrets
+```
+
+Cloning a green square is not possible. Cloning a three-year trenches product graph is also not free.
 
 ---
 
@@ -143,23 +140,25 @@ Contribution heat on this account is real. Much of it is in **private** reposito
 | Channel | Link |
 |---------|------|
 | **Portal** | [AlphaTek.App](https://www.alphatek.app) |
+| **Changelog** | [Build Journey](https://www.alphatek.app/changelog) |
 | **Discord** | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
+| **Whitepaper** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
 | **X (main)** | [@BitcoinHomework](https://x.com/BitcoinHomework) |
 | **X (bot)** | [@AlphaTekBot](https://x.com/AlphaTekBot) |
 | **X (dev)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
-| **Org** | [AlphaTek App](https://github.com/AlphaTek-App) *(when public product repos land there)* |
 
 ---
 
 ## For Operators And Investors
 
-I am not selling a vapor slide deck on this page. If you care about:
+If you care about:
 
 - free tools that still exist because the project is becoming sustainable  
-- a real multi-surface platform (web + Discord + extension)  
-- AAI as utility, not only ticker theater  
+- real multi-surface tech (web + Discord + extension)  
+- AAI as utility — not only ticker theater  
+- replication cost measured in **years of ops**, not slides  
 
-…open [AlphaTek.App](https://www.alphatek.app) and the Discord. Code that other people **must** inspect will be public **on purpose**. Everything else stays private until release is a feature, not a bug.
+…start at [AlphaTek.App](https://www.alphatek.app), join [Discord](https://discord.gg/EpicAlpha), and read the [ecosystem whitepaper synopsis](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper).
 
 ---
 
