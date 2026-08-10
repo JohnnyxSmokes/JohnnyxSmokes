@@ -169,6 +169,7 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 | **X (Alpha Tek)** | [@AlphaTekApp](https://x.com/AlphaTekApp) |
 | **X (bot)** | [@AlphaTekBot](https://x.com/AlphaTekBot) |
 | **Reddit** | [u/mastertrader777](https://www.reddit.com/user/mastertrader777/) |
+| **Bitcointalk** | [Profile u=423115](https://bitcointalk.org/index.php?action=profile;u=423115) |
 
 ---
 
