@@ -137,7 +137,7 @@ PRIVATE
   · Platform monorepo · agents · ingestion · unpaid R&D · ops secrets
 ```
 
-Cloning a green square is not possible. Cloning a three-year trenches product graph is also not free.
+Cloning a green square is not possible. Cloning **fourteen years** of multiproject trenches is also not free.
 
 ---
 
