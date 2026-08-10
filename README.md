@@ -34,9 +34,20 @@
     <a href="https://www.alphatek.app/changelog">
       <img src="https://img.shields.io/badge/Build%20Journey-Changelog-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Build Journey" />
     </a>
-    &nbsp;
+  </p>
+
+  <!-- One X logo only — three handles, no doubled X label -->
+  <p>
     <a href="https://x.com/BitcoinHomework">
-      <img src="https://img.shields.io/badge/X-@BitcoinHomework-000000?style=for-the-badge&labelColor=0A0A0A&logo=x&logoColor=white" alt="@BitcoinHomework" />
+      <img src="https://img.shields.io/badge/@BitcoinHomework-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" alt="@BitcoinHomework" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/AlphaTekBot">
+      <img src="https://img.shields.io/badge/@AlphaTekBot-000000?style=for-the-badge&labelColor=0A0A0A" alt="@AlphaTekBot" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/MTRDevelopers">
+      <img src="https://img.shields.io/badge/@MTRDevelopers-000000?style=for-the-badge&labelColor=0A0A0A" alt="@MTRDevelopers" />
     </a>
   </p>
 
