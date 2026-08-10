@@ -19,7 +19,7 @@
 
   <p>
     Free crypto intelligence first. Sustainable platform second.<br />
-    Three-plus years in the trenches so newcomers and operators get real tools — not vaporware.
+    <strong>14+ year crypto vet</strong> — trader · developer · BTC 2012 OG — building real tools, not vaporware.
   </p>
 
   <p>
@@ -41,6 +41,7 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/Vet-14%2B%20Years%20%C2%B7%20BTC%202012-f59e0b?style=flat-square&labelColor=0A0A0A" alt="14+ year crypto vet" />
     <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana & multichain" />
     <img src="https://img.shields.io/badge/Core-Private%20Until%20Release-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private" />
     <img src="https://img.shields.io/badge/Cursor-Day%2081%2B-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 81" />
@@ -55,7 +56,9 @@
 
 **JohnnyxSmokes** — he/him · Tampa, FL · building **Epic Alpha** and **Alpha Tek**.
 
-Crypto since the **2012 BTC era**. The mission never moved: give people who got burned, who refuse to get burned again, or who only have a little to start with **real intelligence** — free tools and free community first, paid depth when it earns its keep.
+**14+ years in crypto** (since the **2012 BTC era**): trader, developer, and multiproject operator — not a 2020s narrative that started yesterday. Long tenure includes free education work under brands like **Bitcoin Homework**, earlier social/trading and market products across cycles, and a deep **Bitcointalk-era** footprint with posts and thread history that predate most of today’s “OG” timelines. Ask around the old forums if you want primary sources; the calendar math is simple — 2012 → now is fourteen years of scars, charts, ships, and rebuilds.
+
+The current chapter is Alpha Tek: give people who got burned, who refuse to get burned again, or who only have a little to start with **real intelligence** — free tools and free community first, paid depth when it earns its keep.
 
 Hard build stays **private by default**. Public presence is the story, live products, product footprints, and (when it matters) inspectable packages like the browser extension.
 
