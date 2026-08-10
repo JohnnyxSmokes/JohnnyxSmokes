@@ -69,8 +69,9 @@ Hard build stays **private by default**. Public presence is the story, live prod
 |-------|------------|
 | **[AlphaTek.App](https://www.alphatek.app)** | Live web portal — Explorer, Discover, TG Arena, KOL, Guard, Academy, AAI Hub |
 | **[Epic Alpha Discord](https://discord.gg/EpicAlpha)** | Free community + **200+ Tek channels** + command surface |
+| **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**) |
 | **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails |
-| **AAI** | Utility design (devnet-proven programs; mainnet gated) |
+| **AAI Hub** | Utility cockpit — stake, tiers, XP, flywheel entry |
 
 One brand. Free first. Sustainable flywheels so free tools survive.
 
@@ -84,9 +85,11 @@ Docs + banners only (or, for Alpha Trench, inspectable packages when released). 
 
 | Product | Public repo | Live |
 |---------|-------------|------|
-| **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | Synopsis |
+| **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | Synopsis + chapters |
 | **Web portal** | [JohnnyxSmokes/alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) | [alphatek.app](https://www.alphatek.app) |
 | **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
+| **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 tiers |
+| **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [alphatek.app/dashboard/aai](https://www.alphatek.app/dashboard/aai) |
 | **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Portal link · store TBD |
 
 ---
