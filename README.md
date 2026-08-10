@@ -7,10 +7,14 @@
 -->
 
 <!-- ============== TOP BANNER ============== -->
-<div align="center">
+<!-- Source: marketing/social-profiles/alpha-tek/alpha-tek-x-header-1500x500.png -->
+<p align="center">
+  <a href="https://www.alphatek.app">
+    <img src="assets/banner.png" alt="Alpha Tek — Intelligence. Infrastructure. Advantage." width="100%" />
+  </a>
+</p>
 
-  <!-- Optional: drop a public OG/banner image into this repo as assets/banner.png after publish -->
-  <!-- <img src="assets/banner.png" alt="Epic Alpha · Alpha Tek" width="100%" /> -->
+<div align="center">
 
   <h1>EpicAlpha · AlphaTek</h1>
 
