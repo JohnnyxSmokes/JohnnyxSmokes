@@ -159,22 +159,10 @@ I am not selling a vapor slide deck on this page. If you care about:
 
 ---
 
-## Profile Setup Notes (Owner Only)
-
-Delete this section before or after first publish if you want a pure visitor-facing page.
-
-1. Create **public** repo: `JohnnyxSmokes/JohnnyxSmokes`
-2. Commit this file as `README.md` on `main`
-3. Settings → **Public profile** (repos remain private)
-4. Optionally: Profile → **Contribution settings** → include private contributions (greens only; visitors still cannot clone private code)
-5. Pin public repos when Alpha Trench (or marketing repos) exist; do not pin private monorepos
-
----
-
 <div align="center">
 
   <sub>
-    Built with stubbornness since BTC 2012 · Tampa · Epic Alpha · Alpha Tek<br />
+    Built with passion since BTC 2012 · Tampa · Epic Alpha · Alpha Tek<br />
     Core repositories private · Public story and auditables by design
   </sub>
 
