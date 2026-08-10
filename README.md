@@ -36,18 +36,22 @@
     </a>
   </p>
 
-  <!-- One X logo only — three handles, no doubled X label -->
+  <!-- One X logo only — main → builders → bot -->
   <p>
     <a href="https://x.com/BitcoinHomework">
       <img src="https://img.shields.io/badge/@BitcoinHomework-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" alt="@BitcoinHomework" />
     </a>
     &nbsp;
-    <a href="https://x.com/AlphaTekBot">
-      <img src="https://img.shields.io/badge/@AlphaTekBot-000000?style=for-the-badge&labelColor=0A0A0A" alt="@AlphaTekBot" />
-    </a>
-    &nbsp;
     <a href="https://x.com/MTRDevelopers">
       <img src="https://img.shields.io/badge/@MTRDevelopers-000000?style=for-the-badge&labelColor=0A0A0A" alt="@MTRDevelopers" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/AlphaTekApp">
+      <img src="https://img.shields.io/badge/@AlphaTekApp-000000?style=for-the-badge&labelColor=0A0A0A" alt="@AlphaTekApp" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/AlphaTekBot">
+      <img src="https://img.shields.io/badge/@AlphaTekBot-000000?style=for-the-badge&labelColor=0A0A0A" alt="@AlphaTekBot" />
     </a>
   </p>
 
@@ -161,8 +165,9 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 | **Discord** | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
 | **Whitepaper** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
 | **X (main)** | [@BitcoinHomework](https://x.com/BitcoinHomework) |
+| **X (builders)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
+| **X (Alpha Tek)** | [@AlphaTekApp](https://x.com/AlphaTekApp) |
 | **X (bot)** | [@AlphaTekBot](https://x.com/AlphaTekBot) |
-| **X (dev)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
 
 ---
 
