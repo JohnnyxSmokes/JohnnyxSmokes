@@ -89,6 +89,8 @@ Hard build stays **private by default**. Public presence is the story, live prod
 | **[Epic Alpha Discord](https://discord.gg/EpicAlpha)** | Free community + **200+ Tek channels** + command surface |
 | **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**) |
 | **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails |
+| **Alpha Trench Safari** | Same client, packed for Mac Safari (unsigned preview) |
+| **Alpha Trench Windows** | Same client for Chrome / Edge on Windows |
 | **AAI Hub** | Utility cockpit — stake, tiers, XP, flywheel entry |
 
 One brand. Free first. Sustainable flywheels so free tools survive.
@@ -108,7 +110,9 @@ Docs + banners only (or, for Alpha Trench, inspectable packages when released). 
 | **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
 | **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 tiers |
 | **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [alphatek.app/dashboard/aai](https://www.alphatek.app/dashboard/aai) |
-| **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Portal link · store TBD |
+| **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Chrome unpacked · store TBD |
+| **Alpha Trench Safari** | [JohnnyxSmokes/alpha-trench-safari](https://github.com/JohnnyxSmokes/alpha-trench-safari) | Mac unsigned preview |
+| **Alpha Trench Windows** | [JohnnyxSmokes/alpha-trench-windows](https://github.com/JohnnyxSmokes/alpha-trench-windows) | Chrome / Edge on Windows |
 
 ---
 
