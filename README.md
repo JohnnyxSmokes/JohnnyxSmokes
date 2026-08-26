@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Portal-AlphaTek.App-a855f7?style=for-the-badge&labelColor=0A0A0A" alt="AlphaTek.App" />
     </a>
     &nbsp;
-    <a href="https://discord.gg/EpicAlpha">
+    <a href="https://discord.gg/epicalpha">
       <img src="https://img.shields.io/badge/Discord-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Epic Alpha Discord" />
     </a>
     &nbsp;
@@ -86,14 +86,17 @@ Hard build stays **private by default**. Public presence is the story, live prod
 | Plane | What it is |
 |-------|------------|
 | **[AlphaTek.App](https://www.alphatek.app)** | Live web portal — Explorer, Discover, TG Arena, KOL, Guard, Academy, AAI Hub |
-| **[Epic Alpha Discord](https://discord.gg/EpicAlpha)** | Free community + **200+ Tek channels** + command surface |
+| **[Epic Alpha Discord](https://discord.gg/epicalpha)** | Free community + **200+ Tek channels** + command surface |
 | **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**) |
-| **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails |
+| **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails, **Trade Replay** |
+| **Trench Replay** | Web Theater — **Market Replay**, **Wallet Replay**, **Trench Cast**, **Trench Forecast** |
 | **Alpha Trench Safari** | Same client, packed for Mac Safari (unsigned preview) |
 | **Alpha Trench Windows** | Same client for Chrome / Edge on Windows |
 | **AAI Hub** | Utility cockpit — stake, tiers, XP, flywheel entry |
 
 One brand. Free first. Sustainable flywheels so free tools survive.
+
+Current infrastructure proof: Alpha Tek’s Pump.fun library now uses a smoke-verified fail-closed registry and reconciles PumpPortal WebSocket, Frontend V3 REST, and FluxBeam WebSocket data into source-aware Explorer and Discord feeds.
 
 **Read the full synopsis:** [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper)
 
@@ -107,7 +110,7 @@ Docs + banners only (or, for Alpha Trench, inspectable packages when released). 
 |---------|-------------|------|
 | **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | Synopsis + chapters |
 | **Web portal** | [JohnnyxSmokes/alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) | [alphatek.app](https://www.alphatek.app) |
-| **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
+| **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/epicalpha](https://discord.gg/epicalpha) |
 | **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 tiers |
 | **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [alphatek.app/dashboard/aai](https://www.alphatek.app/dashboard/aai) |
 | **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Chrome unpacked · store TBD |
@@ -166,7 +169,7 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 |---------|------|
 | **Portal** | [AlphaTek.App](https://www.alphatek.app) |
 | **Changelog** | [Build Journey](https://www.alphatek.app/changelog) |
-| **Discord** | [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha) |
+| **Discord** | [discord.gg/epicalpha](https://discord.gg/epicalpha) |
 | **Whitepaper** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
 | **X (main)** | [@BitcoinHomework](https://x.com/BitcoinHomework) |
 | **X (builders)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
@@ -186,7 +189,7 @@ If you care about:
 - AAI as utility — not only ticker theater  
 - replication cost measured in **years of ops**, not slides  
 
-…start at [AlphaTek.App](https://www.alphatek.app), join [Discord](https://discord.gg/EpicAlpha), and read the [ecosystem whitepaper synopsis](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper).
+…start at [AlphaTek.App](https://www.alphatek.app), join [Discord](https://discord.gg/epicalpha), and read the [ecosystem whitepaper synopsis](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper).
 
 ---
 
