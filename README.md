@@ -79,13 +79,11 @@ Hard build stays **private by default**. Public presence is the story, live prod
 
 ## Word From The Founder
 
-Bitcoin Homework. Click the file — GitHub plays the MP3 in the browser.
+Click the file — GitHub plays the MP3 in the browser.
 
 **[word-from-the-founder.mp3](./assets/word-from-the-founder.mp3)**
 
 Live site player: [AlphaTek.App](https://www.alphatek.app)
-
-Script: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
 
 ---
 
