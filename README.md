@@ -77,6 +77,16 @@ The current chapter is Alpha Tek: give people who got burned, who refuse to get 
 
 Hard build stays **private by default**. Public presence is the story, live products, product footprints, and (when it matters) inspectable packages like the browser extension.
 
+## Word From The Founder
+
+Bitcoin Homework. Click the file — GitHub plays the MP3 in the browser.
+
+**[word-from-the-founder.mp3](./assets/word-from-the-founder.mp3)**
+
+Live site player: [AlphaTek.App](https://www.alphatek.app)
+
+Script: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
+
 ---
 
 ## What Is Alpha Tek?
