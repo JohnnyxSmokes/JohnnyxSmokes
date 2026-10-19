@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Portal-AlphaTek.App-a855f7?style=for-the-badge&labelColor=0A0A0A" alt="AlphaTek.App" />
     </a>
     &nbsp;
-    <a href="https://discord.gg/epicalpha">
+    <a href="https://discord.gg/sPW3tJk">
       <img src="https://img.shields.io/badge/Discord-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Epic Alpha Discord" />
     </a>
     &nbsp;
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Vet-14%2B%20Years%20%C2%B7%20BTC%202012-f59e0b?style=flat-square&labelColor=0A0A0A" alt="14+ year crypto vet" />
     <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana & multichain" />
     <img src="https://img.shields.io/badge/Core-Private%20Until%20Release-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private" />
-    <img src="https://img.shields.io/badge/Cursor-Day%2081%2B-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 81" />
+    <img src="https://img.shields.io/badge/Cursor-Day%20600-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 600" />
     <img src="https://komarev.com/ghpvc/?username=JohnnyxSmokes&style=flat-square&color=a855f7" alt="Profile views" />
   </p>
 
@@ -96,7 +96,7 @@ Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
 | Plane | What it is |
 |-------|------------|
 | **[AlphaTek.App](https://www.alphatek.app)** | Live web portal — Explorer, Discover, TG Arena, KOL, Guard, Academy, AAI Hub |
-| **[Epic Alpha Discord](https://discord.gg/epicalpha)** | Free community + **200+ Tek channels** + command surface |
+| **[Epic Alpha Discord](https://discord.gg/sPW3tJk)** | Free community + **200+ Tek channels** + command surface |
 | **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**) |
 | **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails, **Trade Replay** |
 | **Trench Replay** | Web Theater — **Market Replay**, **Wallet Replay**, **Trench Cast**, **Trench Forecast** |
@@ -120,7 +120,7 @@ Docs + banners only (or, for Alpha Trench, inspectable packages when released). 
 |---------|-------------|------|
 | **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | Synopsis + chapters |
 | **Web portal** | [JohnnyxSmokes/alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) | [alphatek.app](https://www.alphatek.app) |
-| **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/epicalpha](https://discord.gg/epicalpha) |
+| **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk) |
 | **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 tiers |
 | **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [alphatek.app/dashboard/aai](https://www.alphatek.app/dashboard/aai) |
 | **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Chrome unpacked · store TBD |
@@ -151,7 +151,7 @@ The changelog is where product narrative meets timestamps. The green boxes are p
 | **Alpha brand** | One public label — not vendor cosplay |
 | **Ship privately, prove publicly** | Core IP closed; auditables open when needed |
 | **Sustainability** | Subs + licensing + AAI utility → free layer lives |
-| **Daily depth** | **Cursor Day 81+** of intense product shipping with AI-assisted engineering — heat shows on GitHub |
+| **Daily depth** | **Cursor Day 600** of intense product shipping with AI-assisted engineering. Heat shows on GitHub |
 
 Want the raw operator footprint? Scroll the contribution graph on this profile. Thousands of commits; most monorepo detail stays private **on purpose**.
 
@@ -179,7 +179,7 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 |---------|------|
 | **Portal** | [AlphaTek.App](https://www.alphatek.app) |
 | **Changelog** | [Build Journey](https://www.alphatek.app/changelog) |
-| **Discord** | [discord.gg/epicalpha](https://discord.gg/epicalpha) |
+| **Discord** | [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk) |
 | **Whitepaper** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
 | **X (main)** | [@BitcoinHomework](https://x.com/BitcoinHomework) |
 | **X (builders)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
@@ -199,7 +199,7 @@ If you care about:
 - AAI as utility — not only ticker theater  
 - replication cost measured in **years of ops**, not slides  
 
-…start at [AlphaTek.App](https://www.alphatek.app), join [Discord](https://discord.gg/epicalpha), and read the [ecosystem whitepaper synopsis](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper).
+…start at [AlphaTek.App](https://www.alphatek.app), join [Discord](https://discord.gg/sPW3tJk), and read the [ecosystem whitepaper synopsis](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper).
 
 ---
 
