@@ -79,11 +79,13 @@ Hard build stays **private by default**. Public presence is the story, live prod
 
 ## Word From The Founder
 
-Click the file — GitHub plays the MP3 in the browser.
+GitHub only draws a player for video files it can preview. The full master on the site is about 59 MB, and the spoken MP3 is about 8 MB. Both are over the size GitHub will play in the file view. This copy is the same film, scaled so the player on this page can run.
 
-**[word-from-the-founder.mp3](./assets/word-from-the-founder.mp3)**
+**[word-from-the-founder.mp4](./assets/word-from-the-founder.mp4)**
 
-Live site player: [AlphaTek.App](https://www.alphatek.app)
+Full quality, the one that already works: [AlphaTek.App](https://www.alphatek.app)
+
+Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
 
 ---
 
