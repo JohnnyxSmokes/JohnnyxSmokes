@@ -20,7 +20,7 @@
   <p>
     More than three years of free tools, alpha, and intel.<br />
     That chapter is morphing into an ecosystem: <strong>subscriptions</strong>, <strong>AAI</strong>, and <strong>Alpha Trench</strong>.<br />
-    <strong>14+ year crypto vet</strong> · trader · developer · BTC 2012 OG · real tools, not vaporware.
+    <strong>14+ year crypto vet</strong> · Trader · Developer · BTC 2012 OG · real tools, not vaporware.
   </p>
 
   <p>
