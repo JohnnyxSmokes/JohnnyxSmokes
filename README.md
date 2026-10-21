@@ -14,12 +14,13 @@
   <h1>EpicAlpha · AlphaTek</h1>
 
   <p>
-    <strong>Crypto OG · Building in public · Shipping privately until release</strong>
+    <strong>Crypto OG · Building in public · Core private, products live</strong>
   </p>
 
   <p>
-    Free crypto intelligence first. Sustainable platform second.<br />
-    <strong>14+ year crypto vet</strong> — trader · developer · BTC 2012 OG — building real tools, not vaporware.
+    More than three years of free tools, alpha, and intel.<br />
+    That chapter is morphing into an ecosystem: <strong>subscriptions</strong>, <strong>AAI</strong>, and <strong>Alpha Trench</strong>.<br />
+    <strong>14+ year crypto vet</strong> · trader · developer · BTC 2012 OG · real tools, not vaporware.
   </p>
 
   <p>
@@ -33,6 +34,10 @@
     &nbsp;
     <a href="https://www.alphatek.app/changelog">
       <img src="https://img.shields.io/badge/Build%20Journey-Changelog-00D4FF?style=for-the-badge&labelColor=0A0A0A" alt="Build Journey" />
+    </a>
+    &nbsp;
+    <a href="https://alphatek.app/whitepaper">
+      <img src="https://img.shields.io/badge/Whitepaper-Platform%201.3%20%C2%B7%20AAI%202.1-a855f7?style=for-the-badge&labelColor=0A0A0A" alt="Whitepaper" />
     </a>
   </p>
 
@@ -57,8 +62,8 @@
 
   <p>
     <img src="https://img.shields.io/badge/Vet-14%2B%20Years%20%C2%B7%20BTC%202012-f59e0b?style=flat-square&labelColor=0A0A0A" alt="14+ year crypto vet" />
-    <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana & multichain" />
-    <img src="https://img.shields.io/badge/Core-Private%20Until%20Release-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private" />
+    <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana and multichain" />
+    <img src="https://img.shields.io/badge/Core-Private%20%C2%B7%20Products%20Live-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private, products live" />
     <img src="https://img.shields.io/badge/Cursor-Day%20655-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 655" />
     <img src="https://komarev.com/ghpvc/?username=JohnnyxSmokes&label=Profile%20views&color=a855f7&style=flat-square&.svg" alt="Profile views" />
   </p>
@@ -69,21 +74,19 @@
 
 ## Who I Am
 
-**JohnnyxSmokes** — he/him · Tampa, FL · building **Epic Alpha** and **Alpha Tek**.
+**JohnnyxSmokes** · he/him · Tampa, FL · building **Epic Alpha** and **Alpha Tek**.
 
-**14+ years in crypto** (since the **2012 BTC era**): trader, developer, and multiproject operator — not a 2020s narrative that started yesterday. Long tenure includes free education work under brands like **Bitcoin Homework**, earlier social/trading and market products across cycles, and a deep **Bitcointalk-era** footprint with posts and thread history that predate most of today’s “OG” timelines. Ask around the old forums if you want primary sources; the calendar math is simple — 2012 → now is fourteen years of scars, charts, ships, and rebuilds.
+**14+ years in crypto** (since the **2012 BTC era**): trader, developer, and multiproject operator. Long tenure includes education work under **Bitcoin Homework**, earlier social, trading, and market products across cycles, and a **Bitcointalk-era** footprint with posts and thread history that predate most of today’s “OG” timelines. The calendar math is simple. 2012 to now is fourteen years of scars, charts, ships, and rebuilds.
 
-The current chapter is Alpha Tek: give people who got burned, who refuse to get burned again, or who only have a little to start with **real intelligence** — free tools and free community first, paid depth when it earns its keep.
+The current chapter is Alpha Tek. For more than three years, Epic Alpha offered free tools, alpha, and intel to people who got burned, who refuse to get burned again, or who only have a little to start with. That chapter is morphing into an ecosystem: **subscriptions and Discord licensing**, **AAI utility**, and the **Alpha Trench extension**.
 
-Hard build stays **private by default**. Public presence is the story, live products, product footprints, and (when it matters) inspectable packages like the browser extension.
+Hard build stays **private by default**. Public presence is the story, the live products, the product footprints, and the inspectable browser extension.
 
 ## Word From The Founder
 
-GitHub only draws a player for video files it can preview. The full master on the site is about 59 MB, and the spoken MP3 is about 8 MB. Both are over the size GitHub will play in the file view. This copy is the same film, scaled so the player on this page can run.
-
 **[word-from-the-founder.mp4](./assets/word-from-the-founder.mp4)**
 
-Full quality, the one that already works: [AlphaTek.App](https://www.alphatek.app)
+Full quality on the site: [AlphaTek.App](https://www.alphatek.app)
 
 Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
 
@@ -91,41 +94,50 @@ Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
 
 ## What Is Alpha Tek?
 
-**Alpha Tek** is a full **crypto intelligence ecosystem** — not a single app with three tabs.
+**Alpha Tek** is a crypto intelligence ecosystem. Same depth across the chains the platform supports. One desk, not a pile of terminals.
 
 | Plane | What it is |
 |-------|------------|
-| **[AlphaTek.App](https://www.alphatek.app)** | Live web portal — Explorer, Discover, TG Arena, KOL, Guard, Academy, AAI Hub |
-| **[Epic Alpha Discord](https://discord.gg/sPW3tJk)** | Free community + **200+ Tek channels** + command surface |
-| **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**) |
-| **Alpha Trench** | Browser trench client — pair-page shell, Guard, practice rails, **Trade Replay** |
-| **Trench Replay** | Web Theater — **Market Replay**, **Wallet Replay**, **Trench Cast**, **Trench Forecast** |
-| **Alpha Trench Safari** | Same client, packed for Mac Safari (unsigned preview) |
-| **Alpha Trench Windows** | Same client for Chrome / Edge on Windows |
-| **AAI Hub** | Utility cockpit — stake, tiers, XP, flywheel entry |
+| **[AlphaTek.App](https://www.alphatek.app)** | Live portal: Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, Alpha Terminal, Quant, TG Arena, KOL Scope, Guard, Academy, and AAI Hub. **1,500+** platform endpoints. Agent MCP (`@alphatekapp/mcp`) is reserved and ships after QA. |
+| **[Epic Alpha Discord](https://discord.gg/sPW3tJk)** | Community flagship. **200+** Tek channels and the command surface. |
+| **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**). |
+| **[Alpha Trench](https://alphatek.app/alpha-trench)** | Browser client for Windows and Safari. Instant Trade, paper books, Guard, Mint Intel, live leaderboard, and weekly contests. **Version 0.9.542.** Windows and Safari scans: **0 malicious, 0 suspicious.** |
+| **[AAI Hub](https://alphatek.app/dashboard/aai)** | Stake, tiers, and utility. Devnet programs are proven. Mainnet stays gated. |
 
-One brand. Free first. Sustainable flywheels so free tools survive.
+Traders land in Alpha Trench, practice, then move into AlphaTek.App, subscriptions, and AAI.
 
-Current infrastructure proof: Alpha Tek’s Pump.fun library now uses a smoke-verified fail-closed registry and reconciles PumpPortal WebSocket, Frontend V3 REST, and FluxBeam WebSocket data into source-aware Explorer and Discord feeds.
+---
 
-**Read the full synopsis:** [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper)
+## Proof
+
+| Surface | Link |
+|---------|------|
+| **Whitepaper on the site** | [alphatek.app/whitepaper](https://alphatek.app/whitepaper) · Platform **1.3** · AAI **2.1** |
+| **Public synopsis** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
+| **Burn dashboard** | [alphatek.app/aai/burn](https://alphatek.app/aai/burn) · 50% burn · 30% staking · 20% treasury |
+| **AAI Hub** | [alphatek.app/dashboard/aai](https://alphatek.app/dashboard/aai) |
+| **Build Journey** | [alphatek.app/changelog](https://alphatek.app/changelog) · Cursor Day **655** |
+| **Alpha Trench download** | [alphatek.app/alpha-trench](https://alphatek.app/alpha-trench) |
+| **Windows VirusTotal** | [0.9.542 report](https://www.virustotal.com/gui/file/90542940d9e457a9c817359cfc6948c1201ffaf53f22fb3aa1ba717d3da8833f) |
+| **Safari VirusTotal** | [0.9.542 report](https://www.virustotal.com/gui/file/80b7bc6478f2eba64d9d327f69a5f93688890dcecc23bea618ddb7952b07da2d) |
+| **Contact** | [contact@alphatek.app](mailto:contact@alphatek.app) |
 
 ---
 
 ## Public Product Repositories
 
-Docs + banners only (or, for Alpha Trench, inspectable packages when released). **No private monorepo dumps.**
+Docs and banners, plus the inspectable Alpha Trench packages. **No private monorepo dumps.**
 
 | Product | Public repo | Live |
 |---------|-------------|------|
-| **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | Synopsis + chapters |
+| **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | [Synopsis and both papers](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
 | **Web portal** | [JohnnyxSmokes/alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) | [alphatek.app](https://www.alphatek.app) |
 | **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk) |
-| **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 tiers |
-| **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [alphatek.app/dashboard/aai](https://www.alphatek.app/dashboard/aai) |
-| **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | Chrome unpacked · store TBD |
-| **Alpha Trench Safari** | [JohnnyxSmokes/alpha-trench-safari](https://github.com/JohnnyxSmokes/alpha-trench-safari) | Mac unsigned preview |
-| **Alpha Trench Windows** | [JohnnyxSmokes/alpha-trench-windows](https://github.com/JohnnyxSmokes/alpha-trench-windows) | Chrome / Edge on Windows |
+| **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 |
+| **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [AAI Hub](https://www.alphatek.app/dashboard/aai) |
+| **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | [Download 0.9.542](https://alphatek.app/alpha-trench) |
+| **Alpha Trench Safari** | [JohnnyxSmokes/alpha-trench-safari](https://github.com/JohnnyxSmokes/alpha-trench-safari) | [VirusTotal](https://www.virustotal.com/gui/file/80b7bc6478f2eba64d9d327f69a5f93688890dcecc23bea618ddb7952b07da2d) |
+| **Alpha Trench Windows** | [JohnnyxSmokes/alpha-trench-windows](https://github.com/JohnnyxSmokes/alpha-trench-windows) | [VirusTotal](https://www.virustotal.com/gui/file/90542940d9e457a9c817359cfc6948c1201ffaf53f22fb3aa1ba717d3da8833f) |
 
 ---
 
@@ -135,10 +147,10 @@ Every serious shipping streak should leave a receipt.
 
 | Surface | What you see |
 |---------|----------------|
-| **[alphatek.app/changelog](https://www.alphatek.app/changelog)** | **Build Journey** — public ship log, heat, milestones |
-| **[This GitHub profile](https://github.com/JohnnyxSmokes)** | Contribution graph + activity (private repos keep source closed) |
+| **[alphatek.app/changelog](https://www.alphatek.app/changelog)** | **Build Journey**. Public ship log, heat, milestones. |
+| **[This GitHub profile](https://github.com/JohnnyxSmokes)** | Contribution graph and activity. Private repos keep source closed. |
 
-The changelog is where product narrative meets timestamps. The green boxes are proof of process. Both matter.
+The changelog is where the product story meets timestamps. The green boxes are proof of process. Both matter.
 
 ---
 
@@ -146,14 +158,14 @@ The changelog is where product narrative meets timestamps. The green boxes are p
 
 | Principle | Meaning |
 |-----------|---------|
-| **Free first** | Tools and community before gates |
-| **Honesty ladder** | Practice marks before live size |
-| **Alpha brand** | One public label — not vendor cosplay |
-| **Ship privately, prove publicly** | Core IP closed; auditables open when needed |
-| **Sustainability** | Subs + licensing + AAI utility → free layer lives |
-| **Daily depth** | **Cursor Day 655** of intense product shipping with AI-assisted engineering. Heat shows on GitHub |
+| **Three rails** | Subscriptions and Discord licensing, AAI utility, and Alpha Trench |
+| **Practice first** | Paper books and the extension before live size |
+| **Alpha brand** | One public label across every feed |
+| **Ship privately, prove publicly** | Core IP closed. Auditables open when they matter. |
+| **Sustainability** | The three rails fund the stack and the 25% buyback |
+| **Daily depth** | **Cursor Day 655** of product shipping with AI-assisted engineering. Heat shows on GitHub. |
 
-Want the raw operator footprint? Scroll the contribution graph on this profile. Thousands of commits; most monorepo detail stays private **on purpose**.
+Want the raw operator footprint? Scroll the contribution graph on this profile. Thousands of commits. Most monorepo detail stays private **on purpose**.
 
 ---
 
@@ -162,14 +174,14 @@ Want the raw operator footprint? Scroll the contribution graph on this profile. 
 ```text
 PUBLIC
   · This profile · product README repos · live portal · Discord invite
-  · Build Journey changelog · contribution heat
-  · Alpha Trench package + VirusTotal when released
+  · Whitepapers · burn dashboard · Build Journey · contribution heat
+  · Alpha Trench 0.9.542 packages and their VirusTotal reports
 
 PRIVATE
-  · Platform monorepo · agents · ingestion · unpaid R&D · ops secrets
+  · Platform monorepo · agents · ingestion · ops secrets
 ```
 
-Cloning a green square is not possible. Cloning **fourteen years** of multiproject trenches is also not free.
+A green square does not clone. Fourteen years of multiproject trenches do not clone either.
 
 ---
 
@@ -178,9 +190,12 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 | Channel | Link |
 |---------|------|
 | **Portal** | [AlphaTek.App](https://www.alphatek.app) |
+| **Whitepaper** | [alphatek.app/whitepaper](https://alphatek.app/whitepaper) |
+| **Synopsis** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
 | **Changelog** | [Build Journey](https://www.alphatek.app/changelog) |
 | **Discord** | [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk) |
-| **Whitepaper** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
+| **Burn dashboard** | [alphatek.app/aai/burn](https://alphatek.app/aai/burn) |
+| **Contact** | [contact@alphatek.app](mailto:contact@alphatek.app) |
 | **X (main)** | [@BitcoinHomework](https://x.com/BitcoinHomework) |
 | **X (builders)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
 | **X (Alpha Tek)** | [@AlphaTekApp](https://x.com/AlphaTekApp) |
@@ -194,12 +209,12 @@ Cloning a green square is not possible. Cloning **fourteen years** of multiproje
 
 If you care about:
 
-- free tools that still exist because the project is becoming sustainable  
-- real multi-surface tech (web + Discord + extension)  
-- AAI as utility — not only ticker theater  
-- replication cost measured in **years of ops**, not slides  
+- an ecosystem after more than three years of free tools, alpha, and intel
+- a live stack: web, Discord, and the Alpha Trench extension
+- AAI as utility, with devnet proof and a public burn split
+- replication cost measured in **years of ops**, not slides
 
-…start at [AlphaTek.App](https://www.alphatek.app), join [Discord](https://discord.gg/sPW3tJk), and read the [ecosystem whitepaper synopsis](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper).
+start at [AlphaTek.App](https://www.alphatek.app), read the [whitepaper](https://alphatek.app/whitepaper), and join [Discord](https://discord.gg/sPW3tJk).
 
 ---
 
