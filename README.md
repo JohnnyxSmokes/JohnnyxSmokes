@@ -30,7 +30,7 @@
     </a>
     &nbsp;
     <a href="https://discord.gg/sPW3tJk">
-      <img src="https://img.shields.io/badge/Discord-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Epic Alpha Discord" />
+      <img src="https://img.shields.io/badge/Discord-AlphaTek-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="AlphaTek Discord" />
     </a>
     &nbsp;
     <a href="https://www.alphatek.app/changelog">
@@ -112,7 +112,7 @@ Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
       <td align="center">Live portal: Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, Alpha Terminal, Quant, TG Arena, KOL Scope, Guard, Academy, and AAI Hub. <strong>1,500+</strong> platform endpoints. Agent MCP (<code>@alphatekapp/mcp</code>) is reserved and ships after QA.</td>
     </tr>
     <tr>
-      <td align="center"><strong><a href="https://discord.gg/sPW3tJk">Epic Alpha Discord</a></strong></td>
+      <td align="center"><strong><a href="https://discord.gg/sPW3tJk">AlphaTek Discord</a></strong></td>
       <td align="center">Community flagship. <strong>200+</strong> Tek channels and the command surface.</td>
     </tr>
     <tr>
@@ -209,7 +209,7 @@ Docs and banners, plus the inspectable Alpha Trench packages. **No private monor
       <td align="center"><a href="https://www.alphatek.app">alphatek.app</a></td>
     </tr>
     <tr>
-      <td align="center"><strong>Epic Alpha Discord</strong></td>
+      <td align="center"><strong>AlphaTek Discord</strong></td>
       <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-discord">JohnnyxSmokes/alpha-tek-discord</a></td>
       <td align="center"><a href="https://discord.gg/sPW3tJk">discord.gg/sPW3tJk</a></td>
     </tr>
