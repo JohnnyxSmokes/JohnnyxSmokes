@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana and multichain" />
     <img src="https://img.shields.io/badge/Core-Private%20%C2%B7%20Products%20Live-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private, products live" />
     <img src="https://img.shields.io/badge/Cursor-Day%20655-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 655" />
-    <img src="https://komarev.com/ghpvc/?username=JohnnyxSmokes&label=Profile%20views&color=a855f7&style=flat-square&.svg" alt="Profile views" />
+    <img src="assets/profile-views.png" alt="Profile views 154" height="20" />
   </p>
 
 </div>
