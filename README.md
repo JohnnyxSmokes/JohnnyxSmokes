@@ -210,7 +210,7 @@ Docs and banners, plus the inspectable Alpha Trench packages. **No private monor
     </tr>
     <tr>
       <td align="center"><strong>Epic Alpha Discord</strong></td>
-      <td align="center"><a href="https://github.com/JohnnyxSmokes/epic-alpha-discord">JohnnyxSmokes/epic-alpha-discord</a></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-discord">JohnnyxSmokes/alpha-tek-discord</a></td>
       <td align="center"><a href="https://discord.gg/sPW3tJk">discord.gg/sPW3tJk</a></td>
     </tr>
     <tr>
