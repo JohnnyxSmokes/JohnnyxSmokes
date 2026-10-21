@@ -117,7 +117,7 @@ Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
     </tr>
     <tr>
       <td align="center"><strong>Discord licensing</strong></td>
-      <td align="center">Commercial Tek packs for other servers (<strong>$299 / $799 / $1,999</strong>).</td>
+      <td align="center">Elite Enterprise for other servers. <strong>$349.99</strong> a month, or <strong>$280</strong> a month billed annually.</td>
     </tr>
     <tr>
       <td align="center"><strong><a href="https://alphatek.app/alpha-trench">Alpha Trench</a></strong></td>
@@ -216,7 +216,7 @@ Docs and banners, plus the inspectable Alpha Trench packages. **No private monor
     <tr>
       <td align="center"><strong>Discord licensing</strong></td>
       <td align="center"><a href="https://github.com/JohnnyxSmokes/discord-licensing">JohnnyxSmokes/discord-licensing</a></td>
-      <td align="center">$299 / $799 / $1,999</td>
+      <td align="center">$349.99/mo · $280/mo annual</td>
     </tr>
     <tr>
       <td align="center"><strong>AAI Hub</strong></td>
