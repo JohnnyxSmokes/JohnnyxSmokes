@@ -11,10 +11,11 @@
 
 <div align="center">
 
-  <h1>EpicAlpha · AlphaTek</h1>
+  <h1>Epic Alpha · Alpha Tek</h1>
 
   <p>
-    <strong>Crypto OG · Building in public · Core private, products live</strong>
+    <strong>Crypto OG · Building in public · Core private, products live</strong><br />
+    <sub>Platform 1.3 · AAI 2.1 · Alpha Trench 0.9.542 · Cursor Day 655</sub>
   </p>
 
   <p>
