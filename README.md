@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.alphatek.app">
-    <img src="assets/banner.png" alt="Alpha Tek — Intelligence. Infrastructure. Advantage." width="100%" />
+    <img src="assets/alpha-tek-lockup-nav.png" alt="AlphaTek" width="720" />
   </a>
 </p>
 
@@ -59,8 +59,8 @@
     <img src="https://img.shields.io/badge/Vet-14%2B%20Years%20%C2%B7%20BTC%202012-f59e0b?style=flat-square&labelColor=0A0A0A" alt="14+ year crypto vet" />
     <img src="https://img.shields.io/badge/Focus-Solana%20%7C%20Multichain%20Intel-9945FF?style=flat-square&labelColor=0A0A0A" alt="Solana & multichain" />
     <img src="https://img.shields.io/badge/Core-Private%20Until%20Release-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Core private" />
-    <img src="https://img.shields.io/badge/Cursor-Day%20600-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 600" />
-    <img src="https://komarev.com/ghpvc/?username=JohnnyxSmokes&style=flat-square&color=a855f7" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Cursor-Day%20655-06b6d4?style=flat-square&labelColor=0A0A0A" alt="Cursor Day 655" />
+    <img src="https://komarev.com/ghpvc/?username=JohnnyxSmokes&label=Profile%20views&color=a855f7&style=flat-square&.svg" alt="Profile views" />
   </p>
 
 </div>
@@ -151,7 +151,7 @@ The changelog is where product narrative meets timestamps. The green boxes are p
 | **Alpha brand** | One public label — not vendor cosplay |
 | **Ship privately, prove publicly** | Core IP closed; auditables open when needed |
 | **Sustainability** | Subs + licensing + AAI utility → free layer lives |
-| **Daily depth** | **Cursor Day 600** of intense product shipping with AI-assisted engineering. Heat shows on GitHub |
+| **Daily depth** | **Cursor Day 655** of intense product shipping with AI-assisted engineering. Heat shows on GitHub |
 
 Want the raw operator footprint? Scroll the contribution graph on this profile. Thousands of commits; most monorepo detail stays private **on purpose**.
 
