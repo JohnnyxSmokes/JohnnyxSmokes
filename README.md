@@ -72,6 +72,8 @@
 
 ---
 
+<div align="center">
+
 ## Who I Am
 
 **JohnnyxSmokes** · he/him · Tampa, FL · building **Epic Alpha** and **Alpha Tek**.
@@ -96,13 +98,36 @@ Transcript: [word-from-the-founder.txt](./assets/word-from-the-founder.txt)
 
 **Alpha Tek** is a crypto intelligence ecosystem. Same depth across the chains the platform supports. One desk, not a pile of terminals.
 
-| Plane | What it is |
-|-------|------------|
-| **[AlphaTek.App](https://www.alphatek.app)** | Live portal: Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, Alpha Terminal, Quant, TG Arena, KOL Scope, Guard, Academy, and AAI Hub. **1,500+** platform endpoints. Agent MCP (`@alphatekapp/mcp`) is reserved and ships after QA. |
-| **[Epic Alpha Discord](https://discord.gg/sPW3tJk)** | Community flagship. **200+** Tek channels and the command surface. |
-| **Discord licensing** | Commercial Tek packs for other servers (**$299 / $799 / $1,999**). |
-| **[Alpha Trench](https://alphatek.app/alpha-trench)** | Browser client for Windows and Safari. Instant Trade, paper books, Guard, Mint Intel, live leaderboard, and weekly contests. **Version 0.9.542.** Windows and Safari scans: **0 malicious, 0 suspicious.** |
-| **[AAI Hub](https://alphatek.app/dashboard/aai)** | Stake, tiers, and utility. Devnet programs are proven. Mainnet stays gated. |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Plane</th>
+      <th align="center">What it is</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong><a href="https://www.alphatek.app">AlphaTek.App</a></strong></td>
+      <td align="center">Live portal: Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, Alpha Terminal, Quant, TG Arena, KOL Scope, Guard, Academy, and AAI Hub. <strong>1,500+</strong> platform endpoints. Agent MCP (<code>@alphatekapp/mcp</code>) is reserved and ships after QA.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong><a href="https://discord.gg/sPW3tJk">Epic Alpha Discord</a></strong></td>
+      <td align="center">Community flagship. <strong>200+</strong> Tek channels and the command surface.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Discord licensing</strong></td>
+      <td align="center">Commercial Tek packs for other servers (<strong>$299 / $799 / $1,999</strong>).</td>
+    </tr>
+    <tr>
+      <td align="center"><strong><a href="https://alphatek.app/alpha-trench">Alpha Trench</a></strong></td>
+      <td align="center">Browser client for Windows and Safari. Instant Trade, paper books, Guard, Mint Intel, live leaderboard, and weekly contests. <strong>Version 0.9.542.</strong> Windows and Safari scans: <strong>0 malicious, 0 suspicious.</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong><a href="https://alphatek.app/dashboard/aai">AAI Hub</a></strong></td>
+      <td align="center">Stake, tiers, and utility. Devnet programs are proven. Mainnet stays gated.</td>
+    </tr>
+  </tbody>
+</table>
 
 Traders land in Alpha Trench, practice, then move into AlphaTek.App, subscriptions, and AAI.
 
@@ -110,17 +135,52 @@ Traders land in Alpha Trench, practice, then move into AlphaTek.App, subscriptio
 
 ## Proof
 
-| Surface | Link |
-|---------|------|
-| **Whitepaper on the site** | [alphatek.app/whitepaper](https://alphatek.app/whitepaper) · Platform **1.3** · AAI **2.1** |
-| **Public synopsis** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
-| **Burn dashboard** | [alphatek.app/aai/burn](https://alphatek.app/aai/burn) · 50% burn · 30% staking · 20% treasury |
-| **AAI Hub** | [alphatek.app/dashboard/aai](https://alphatek.app/dashboard/aai) |
-| **Build Journey** | [alphatek.app/changelog](https://alphatek.app/changelog) · Cursor Day **655** |
-| **Alpha Trench download** | [alphatek.app/alpha-trench](https://alphatek.app/alpha-trench) |
-| **Windows VirusTotal** | [0.9.542 report](https://www.virustotal.com/gui/file/90542940d9e457a9c817359cfc6948c1201ffaf53f22fb3aa1ba717d3da8833f) |
-| **Safari VirusTotal** | [0.9.542 report](https://www.virustotal.com/gui/file/80b7bc6478f2eba64d9d327f69a5f93688890dcecc23bea618ddb7952b07da2d) |
-| **Contact** | [contact@alphatek.app](mailto:contact@alphatek.app) |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Surface</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Whitepaper on the site</strong></td>
+      <td align="center"><a href="https://alphatek.app/whitepaper">alphatek.app/whitepaper</a> · Platform <strong>1.3</strong> · AAI <strong>2.1</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Public synopsis</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-whitepaper">alpha-tek-whitepaper</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Burn dashboard</strong></td>
+      <td align="center"><a href="https://alphatek.app/aai/burn">alphatek.app/aai/burn</a> · 50% burn · 30% staking · 20% treasury</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>AAI Hub</strong></td>
+      <td align="center"><a href="https://alphatek.app/dashboard/aai">alphatek.app/dashboard/aai</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Build Journey</strong></td>
+      <td align="center"><a href="https://alphatek.app/changelog">alphatek.app/changelog</a> · Cursor Day <strong>655</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Alpha Trench download</strong></td>
+      <td align="center"><a href="https://alphatek.app/alpha-trench">alphatek.app/alpha-trench</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Windows VirusTotal</strong></td>
+      <td align="center"><a href="https://www.virustotal.com/gui/file/90542940d9e457a9c817359cfc6948c1201ffaf53f22fb3aa1ba717d3da8833f">0.9.542 report</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Safari VirusTotal</strong></td>
+      <td align="center"><a href="https://www.virustotal.com/gui/file/80b7bc6478f2eba64d9d327f69a5f93688890dcecc23bea618ddb7952b07da2d">0.9.542 report</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Contact</strong></td>
+      <td align="center"><a href="mailto:contact@alphatek.app">contact@alphatek.app</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -128,16 +188,57 @@ Traders land in Alpha Trench, practice, then move into AlphaTek.App, subscriptio
 
 Docs and banners, plus the inspectable Alpha Trench packages. **No private monorepo dumps.**
 
-| Product | Public repo | Live |
-|---------|-------------|------|
-| **Ecosystem whitepaper** | [JohnnyxSmokes/alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) | [Synopsis and both papers](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
-| **Web portal** | [JohnnyxSmokes/alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) | [alphatek.app](https://www.alphatek.app) |
-| **Epic Alpha Discord** | [JohnnyxSmokes/epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) | [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk) |
-| **Discord licensing** | [JohnnyxSmokes/discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) | $299 / $799 / $1,999 |
-| **AAI Hub** | [JohnnyxSmokes/aai-hub](https://github.com/JohnnyxSmokes/aai-hub) | [AAI Hub](https://www.alphatek.app/dashboard/aai) |
-| **Alpha Trench** | [JohnnyxSmokes/alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) | [Download 0.9.542](https://alphatek.app/alpha-trench) |
-| **Alpha Trench Safari** | [JohnnyxSmokes/alpha-trench-safari](https://github.com/JohnnyxSmokes/alpha-trench-safari) | [VirusTotal](https://www.virustotal.com/gui/file/80b7bc6478f2eba64d9d327f69a5f93688890dcecc23bea618ddb7952b07da2d) |
-| **Alpha Trench Windows** | [JohnnyxSmokes/alpha-trench-windows](https://github.com/JohnnyxSmokes/alpha-trench-windows) | [VirusTotal](https://www.virustotal.com/gui/file/90542940d9e457a9c817359cfc6948c1201ffaf53f22fb3aa1ba717d3da8833f) |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Product</th>
+      <th align="center">Public repo</th>
+      <th align="center">Live</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Ecosystem whitepaper</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-whitepaper">JohnnyxSmokes/alpha-tek-whitepaper</a></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-whitepaper">Synopsis and both papers</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Web portal</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-portal">JohnnyxSmokes/alpha-tek-portal</a></td>
+      <td align="center"><a href="https://www.alphatek.app">alphatek.app</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Epic Alpha Discord</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/epic-alpha-discord">JohnnyxSmokes/epic-alpha-discord</a></td>
+      <td align="center"><a href="https://discord.gg/sPW3tJk">discord.gg/sPW3tJk</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Discord licensing</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/discord-licensing">JohnnyxSmokes/discord-licensing</a></td>
+      <td align="center">$299 / $799 / $1,999</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>AAI Hub</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/aai-hub">JohnnyxSmokes/aai-hub</a></td>
+      <td align="center"><a href="https://www.alphatek.app/dashboard/aai">AAI Hub</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Alpha Trench</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-trench">JohnnyxSmokes/alpha-trench</a></td>
+      <td align="center"><a href="https://alphatek.app/alpha-trench">Download 0.9.542</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Alpha Trench Safari</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-trench-safari">JohnnyxSmokes/alpha-trench-safari</a></td>
+      <td align="center"><a href="https://www.virustotal.com/gui/file/80b7bc6478f2eba64d9d327f69a5f93688890dcecc23bea618ddb7952b07da2d">VirusTotal</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Alpha Trench Windows</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-trench-windows">JohnnyxSmokes/alpha-trench-windows</a></td>
+      <td align="center"><a href="https://www.virustotal.com/gui/file/90542940d9e457a9c817359cfc6948c1201ffaf53f22fb3aa1ba717d3da8833f">VirusTotal</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -145,10 +246,24 @@ Docs and banners, plus the inspectable Alpha Trench packages. **No private monor
 
 Every serious shipping streak should leave a receipt.
 
-| Surface | What you see |
-|---------|----------------|
-| **[alphatek.app/changelog](https://www.alphatek.app/changelog)** | **Build Journey**. Public ship log, heat, milestones. |
-| **[This GitHub profile](https://github.com/JohnnyxSmokes)** | Contribution graph and activity. Private repos keep source closed. |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Surface</th>
+      <th align="center">What you see</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong><a href="https://www.alphatek.app/changelog">alphatek.app/changelog</a></strong></td>
+      <td align="center"><strong>Build Journey</strong>. Public ship log, heat, milestones.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/JohnnyxSmokes">This GitHub profile</a></strong></td>
+      <td align="center">Contribution graph and activity. Private repos keep source closed.</td>
+    </tr>
+  </tbody>
+</table>
 
 The changelog is where the product story meets timestamps. The green boxes are proof of process. Both matter.
 
@@ -156,14 +271,40 @@ The changelog is where the product story meets timestamps. The green boxes are p
 
 ## How I Build
 
-| Principle | Meaning |
-|-----------|---------|
-| **Three rails** | Subscriptions and Discord licensing, AAI utility, and Alpha Trench |
-| **Practice first** | Paper books and the extension before live size |
-| **Alpha brand** | One public label across every feed |
-| **Ship privately, prove publicly** | Core IP closed. Auditables open when they matter. |
-| **Sustainability** | The three rails fund the stack and the 25% buyback |
-| **Daily depth** | **Cursor Day 655** of product shipping with AI-assisted engineering. Heat shows on GitHub. |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Principle</th>
+      <th align="center">Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Three rails</strong></td>
+      <td align="center">Subscriptions and Discord licensing, AAI utility, and Alpha Trench</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Practice first</strong></td>
+      <td align="center">Paper books and the extension before live size</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Alpha brand</strong></td>
+      <td align="center">One public label across every feed</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Ship privately, prove publicly</strong></td>
+      <td align="center">Core IP closed. Auditables open when they matter.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Sustainability</strong></td>
+      <td align="center">The three rails fund the stack and the 25% buyback</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Daily depth</strong></td>
+      <td align="center"><strong>Cursor Day 655</strong> of product shipping with AI-assisted engineering. Heat shows on GitHub.</td>
+    </tr>
+  </tbody>
+</table>
 
 Want the raw operator footprint? Scroll the contribution graph on this profile. Thousands of commits. Most monorepo detail stays private **on purpose**.
 
@@ -187,21 +328,68 @@ A green square does not clone. Fourteen years of multiproject trenches do not cl
 
 ## Find Me
 
-| Channel | Link |
-|---------|------|
-| **Portal** | [AlphaTek.App](https://www.alphatek.app) |
-| **Whitepaper** | [alphatek.app/whitepaper](https://alphatek.app/whitepaper) |
-| **Synopsis** | [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper) |
-| **Changelog** | [Build Journey](https://www.alphatek.app/changelog) |
-| **Discord** | [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk) |
-| **Burn dashboard** | [alphatek.app/aai/burn](https://alphatek.app/aai/burn) |
-| **Contact** | [contact@alphatek.app](mailto:contact@alphatek.app) |
-| **X (main)** | [@BitcoinHomework](https://x.com/BitcoinHomework) |
-| **X (builders)** | [@MTRDevelopers](https://x.com/MTRDevelopers) |
-| **X (Alpha Tek)** | [@AlphaTekApp](https://x.com/AlphaTekApp) |
-| **X (bot)** | [@AlphaTekBot](https://x.com/AlphaTekBot) |
-| **Reddit** | [u/mastertrader777](https://www.reddit.com/user/mastertrader777/) |
-| **Bitcointalk** | [Profile u=423115](https://bitcointalk.org/index.php?action=profile;u=423115) |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Channel</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Portal</strong></td>
+      <td align="center"><a href="https://www.alphatek.app">AlphaTek.App</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Whitepaper</strong></td>
+      <td align="center"><a href="https://alphatek.app/whitepaper">alphatek.app/whitepaper</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Synopsis</strong></td>
+      <td align="center"><a href="https://github.com/JohnnyxSmokes/alpha-tek-whitepaper">alpha-tek-whitepaper</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Changelog</strong></td>
+      <td align="center"><a href="https://www.alphatek.app/changelog">Build Journey</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Discord</strong></td>
+      <td align="center"><a href="https://discord.gg/sPW3tJk">discord.gg/sPW3tJk</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Burn dashboard</strong></td>
+      <td align="center"><a href="https://alphatek.app/aai/burn">alphatek.app/aai/burn</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Contact</strong></td>
+      <td align="center"><a href="mailto:contact@alphatek.app">contact@alphatek.app</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>X (main)</strong></td>
+      <td align="center"><a href="https://x.com/BitcoinHomework">@BitcoinHomework</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>X (builders)</strong></td>
+      <td align="center"><a href="https://x.com/MTRDevelopers">@MTRDevelopers</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>X (Alpha Tek)</strong></td>
+      <td align="center"><a href="https://x.com/AlphaTekApp">@AlphaTekApp</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>X (bot)</strong></td>
+      <td align="center"><a href="https://x.com/AlphaTekBot">@AlphaTekBot</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Reddit</strong></td>
+      <td align="center"><a href="https://www.reddit.com/user/mastertrader777/">u/mastertrader777</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Bitcointalk</strong></td>
+      <td align="center"><a href="https://bitcointalk.org/index.php?action=profile;u=423115">Profile u=423115</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -218,11 +406,13 @@ start at [AlphaTek.App](https://www.alphatek.app), read the [whitepaper](https:/
 
 ---
 
-<div align="center">
+<p>
+  <img src="assets/alphatek-mark-clear.png" alt="AlphaTek" width="180" />
+</p>
 
-  <sub>
-    Built with passion since BTC 2012 · Tampa · Epic Alpha · Alpha Tek<br />
-    Core repositories private · Public story and auditables by design
-  </sub>
+<sub>
+  Built with passion since BTC 2012 · Tampa · Epic Alpha · Alpha Tek<br />
+  Core repositories private · Public story and auditables by design
+</sub>
 
 </div>
